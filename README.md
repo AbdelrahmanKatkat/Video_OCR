@@ -1,5 +1,4 @@
 # Video_OCR
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/4969973a-a026-44ed-9a72-181fa25b21f4/a1f095d2-d577-41cb-90ca-66f832f977ac/Untitled.png)
 
 ## **1. Project Overview 📝:**
 
